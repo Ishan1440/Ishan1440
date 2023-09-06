@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently just a Beginner, who loves to code !<br><br>I know I'm late, but trust me when I say I'm not slow !<br>I know I'm short of skills, but with more hunger than you think !
+I'm currently just a Beginner, who loves to code !<br><br>I know I'm late, but trust me when I say I'm not slow !<br>I know I'm short of skills, but with more hunger than you think ! <br><br>In the not too distant past, I dedicated my efforts in comprehending Generative AI and LLMs through the practice of Prompt Engineering.
 
 
 ## 🌐 Socials:
