@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently just a Beginner, who loves to code !<br><br>I know I'm short of skills, but with more hunger than you think ! <br>I know I'm late, but trust me when I say I'm not slow !<br><br>I am currently learning the Flutter framework
-
+Hello, world!👋<br>I'm a passionate and dedicated developer who loves to code
+- 🌱 I'm constantly learning and trying to improve my skills.
+- 🔭 I'm currently learning Flutter framework
+- ⚡ I'm also involved in competitive programming
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishan_jain1729) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-jain-43340127a) 
