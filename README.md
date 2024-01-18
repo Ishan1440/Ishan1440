@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm currently just a Beginner, who loves to code !<br><br>I know I'm short of skills, but with more hunger than you think ! <br>I know I'm late, but trust me when I say I'm not slow !<br><br>I am currently learning the essentials of Generative AI, more specifically focussing on LLMs
+I'm currently just a Beginner, who loves to code !<br><br>I know I'm short of skills, but with more hunger than you think ! <br>I know I'm late, but trust me when I say I'm not slow !<br><br>I am currently learning the Flutter framework
 
 
 ## 🌐 Socials:
