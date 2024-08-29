@@ -3,7 +3,7 @@
 # 💫 About Me:
 Hello, world!👋<br>I'm a passionate and dedicated developer who loves to code
 - 🌱 I'm constantly learning and trying to improve my skills.
-- 🔭 I'm currently learning Cloud Computing
+- 🔭 I'm currently learning ML
 - ⚡ I have worked with LLMs and Gen AI
 
 ## 🌐 Socials:
